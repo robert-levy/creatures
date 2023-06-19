@@ -1,0 +1,471 @@
+{
+  "worldMap": [
+    [
+      {
+        "terrain": "Desert",
+        "location": { "x": 0, "y": 0 },
+        "spaceTaken": true,
+        "occupiedBy": {
+          "id": "collector1",
+          "name": "Collector 1",
+          "location": { "x": 0, "y": 0 },
+          "type": "Collector"
+        }
+      },
+      {
+        "terrain": "Desert",
+        "location": { "x": 0, "y": 1 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Desert",
+        "location": { "x": 0, "y": 2 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 0, "y": 3 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 0, "y": 4 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 0, "y": 5 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 0, "y": 6 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 0, "y": 7 },
+        "spaceTaken": true,
+        "occupiedBy": {
+          "id": "collector2",
+          "name": "Collector 2",
+          "location": { "x": 0, "y": 7 },
+          "type": "Collector"
+        }
+      }
+    ],
+
+    [
+      {
+        "terrain": "Desert",
+        "location": { "x": 1, "y": 0 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Desert",
+        "location": { "x": 1, "y": 1 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Desert",
+        "location": { "x": 1, "y": 2 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 1, "y": 3 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 1, "y": 4 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 1, "y": 5 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 1, "y": 6 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 1, "y": 7 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      }
+    ],
+
+    [
+      {
+        "terrain": "Desert",
+        "location": { "x": 2, "y": 0 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Desert",
+        "location": { "x": 2, "y": 1 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Desert",
+        "location": { "x": 2, "y": 2 },
+        "spaceTaken": true,
+        "occupiedBy": {
+          "id": "creature1",
+          "name": "Creature 1",
+          "family": "Runner",
+          "species": "Lion",
+          "hp": 100,
+          "location": { "x": 2, "y": 2 },
+          "captured": false,
+          "type": "Creature"
+        }
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 2, "y": 3 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 2, "y": 4 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 2, "y": 5 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 2, "y": 6 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 2, "y": 7 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      }
+    ],
+
+    [
+      {
+        "terrain": "Sea",
+        "location": { "x": 3, "y": 0 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 3, "y": 1 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 3, "y": 2 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 3, "y": 3 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 3, "y": 4 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Jungle",
+        "location": { "x": 3, "y": 5 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Jungle",
+        "location": { "x": 3, "y": 6 },
+        "spaceTaken": true,
+        "occupiedBy": {
+          "id": "creature2",
+          "name": "Creature 2",
+          "family": "Runner",
+          "species": "Monkey",
+          "hp": 100,
+          "location": { "x": 3, "y": 6 },
+          "captured": false,
+          "type": "Creature"
+        }
+      },
+      {
+        "terrain": "Jungle",
+        "location": { "x": 3, "y": 7 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      }
+    ],
+
+    [
+      {
+        "terrain": "Sea",
+        "location": { "x": 4, "y": 0 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 4, "y": 1 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 4, "y": 2 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 4, "y": 3 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 4, "y": 4 },
+        "spaceTaken": true,
+        "occupiedBy": {
+          "id": "creature3",
+          "name": "Creature 3",
+          "family": "Swimmer",
+          "species": "Shark",
+          "hp": 100,
+          "location": { "x": 6, "y": 0 },
+          "captured": false,
+          "type": "Creature"
+        }
+      },
+      {
+        "terrain": "Jungle",
+        "location": { "x": 4, "y": 5 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Jungle",
+        "location": { "x": 4, "y": 6 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Jungle",
+        "location": { "x": 4, "y": 7 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      }
+    ],
+
+    [
+      {
+        "terrain": "Sea",
+        "location": { "x": 5, "y": 0 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 5, "y": 1 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 5, "y": 2 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 5, "y": 3 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 5, "y": 4 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Jungle",
+        "location": { "x": 5, "y": 5 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Jungle",
+        "location": { "x": 5, "y": 6 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Jungle",
+        "location": { "x": 5, "y": 7 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      }
+    ],
+
+    [
+      {
+        "terrain": "Sea",
+        "location": { "x": 6, "y": 0 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 6, "y": 1 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 6, "y": 2 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 6, "y": 3 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 6, "y": 4 },
+        "spaceTaken": true,
+        "occupiedBy": {
+          "id": "creature3",
+          "name": "Creature 3",
+          "family": "Swimmer",
+          "species": "Shark",
+          "hp": 100,
+          "location": { "x": 6, "y": 0 },
+          "captured": false,
+          "type": "Creature"
+        }
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 6, "y": 5 },
+        "spaceTaken": true,
+        "occupiedBy": {
+          "id": "creature4",
+          "name": "Creature 4",
+          "family": "Flyer",
+          "species": "Bird",
+          "hp": 100,
+          "location": { "x": 6, "y": 5 },
+          "captured": false,
+          "type": "Creature"
+        }
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 6, "y": 6 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 6, "y": 7 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      }
+    ],
+
+    [
+      {
+        "terrain": "Sea",
+        "location": { "x": 7, "y": 0 },
+        "spaceTaken": true,
+        "occupiedBy": {
+          "id": "collector3",
+          "name": "Collector 3",
+          "location": { "x": 7, "y": 0 },
+          "type": "Collector"
+        }
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 7, "y": 1 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 7, "y": 2 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 7, "y": 3 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Sea",
+        "location": { "x": 7, "y": 4 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 7, "y": 5 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 7, "y": 6 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      },
+      {
+        "terrain": "Land",
+        "location": { "x": 7, "y": 7 },
+        "spaceTaken": false,
+        "occupiedBy": null
+      }
+    ]
+  ]
+}

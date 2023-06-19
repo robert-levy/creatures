@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Creature 1",
+    "family": "Swimmer",
+    "species": "Shark",
+    "hp": 100,
+    "location": null,
+    "captured": false
+  },
+  {
+    "id": "2",
+    "name": "Creature 2",
+    "family": "Flyer",
+    "species": "Bird",
+    "hp": 100,
+    "location": null,
+    "captured": false
+  },
+  {
+    "id": "3",
+    "name": "Creature 3",
+    "family": "Runner",
+    "species": "Lion",
+    "hp": 100,
+    "location": null,
+    "captured": false
+  },
+  {
+    "id": "4",
+    "name": "Creature 4",
+    "family": "Swimmer",
+    "species": "Shark",
+    "hp": 100,
+    "location": null,
+    "captured": false
+  },
+  {
+    "id": "5",
+    "name": "Creature 5",
+    "family": "Flyer",
+    "species": "Bird",
+    "hp": 100,
+    "location": null,
+    "captured": false
+  },
+  {
+    "id": "6",
+    "name": "Creature 6",
+    "family": "Runner",
+    "species": "Lion",
+    "hp": 100,
+    "location": null,
+    "captured": false
+  },
+  {
+    "id": "7",
+    "name": "Creature 7",
+    "family": "Swimmer",
+    "species": "Shark",
+    "hp": 100,
+    "location": null,
+    "captured": false
+  },
+  {
+    "id": "8",
+    "name": "Creature 8",
+    "family": "Flyer",
+    "species": "Bird",
+    "hp": 100,
+    "location": null,
+    "captured": false
+  },
+  {
+    "id": "9",
+    "name": "Creature 9",
+    "family": "Runner",
+    "species": "Lion",
+    "hp": 100,
+    "location": null,
+    "captured": false
+  }
+]

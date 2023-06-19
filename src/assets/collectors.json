@@ -1,0 +1,17 @@
+[
+    {
+      "id": "collector1",
+      "name": "Collector One",
+      "location": null
+    },
+    {
+      "id": "collector2",
+      "name": "Collector Two",
+      "location":null
+    },
+    {
+      "id": "collector3",
+      "name": "Collector Three",
+      "location": null
+    }
+  ]
